@@ -2,7 +2,7 @@
 
 # IGNORA ARCHIVOS DEL SISTEMA MAC.
 
-.DS_store
+# .DS_store
 
 # ignorar carpetas.
 nombrecarpeta/archivo
