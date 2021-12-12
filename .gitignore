@@ -1,0 +1,16 @@
+# DENTRO DE GIT IGNORE ARMO UNA LISTA DE OBJETOS A IGNORAR
+
+# IGNORA ARCHIVOS DEL SISTEMA MAC.
+
+.DS_store
+
+# ignorar carpetas.
+nombrecarpeta/archivo
+
+# ignorar subcarpeta
+nombrecarpeta/nombresubcarpeta
+
+# ignorar todos los archivos dentro de una carpeta
+
+nombrecarpeta/archivo
+
